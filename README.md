@@ -1,4 +1,3 @@
-# Medizine - aims to connect users to healthcare services
 
 **Tech Stack** 
 
