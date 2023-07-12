@@ -3,6 +3,12 @@
 **Tech Stack** 
 
 JAVA, Spring Boot, Gradle, Swagger Documentation, MongoDB,  AWS Elastic Beanstalk
+
+## Local installation
+- Clone the repo.
+- Change the directory
+- Update the file `src/main/resources/application.properties`.
+	- There you need to declare your database configurations and since the backend is using MongoDB as its database.
 	- Try to use mongo's configuration (either local or MongoDB Atlas).
 	- Also update property `file.upload-dir` in the same file pointing to some local directory, **it should not be null**.
 
